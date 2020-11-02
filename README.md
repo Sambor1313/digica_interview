@@ -18,6 +18,8 @@ On table with name, surename and date of birth:
 
 ## Setup
 * git clone https://github.com/Sambor1313/digica_interview.git
+* Run csv_task.py - 1st task or
+* app.py - 2nd task (separately)
 
 ## Inspiration
 Task form DIGICA Intelligent Software :) 
