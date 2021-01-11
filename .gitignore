@@ -140,5 +140,8 @@ cython_debug/
 # VScode
 .vscode/
 
-# Task from
+# Task from Digica
 task/
+
+#config with passwords
+config.py
